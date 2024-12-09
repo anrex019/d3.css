@@ -1,0 +1,190 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    text-align: end;
+}
+
+#imgfirst {
+    display: inline-block;
+    vertical-align: middle;
+
+}
+
+#navigation {
+    padding: 12px 24px;
+    align-items: center;
+    vertical-align: middle;
+    max-width: 1183px;
+    margin: right;
+    background-color: #f7f4ff;
+    display: inline-block;
+}
+
+#navbar {
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    margin-left: 177px;
+}
+
+#navbar a {
+    text-decoration: none;
+    margin: 20px;
+    color: #323232;
+    font-size: 18px;
+
+}
+
+#contactspan {
+    color: #8E26C0;
+}
+
+#buttonfirst {
+    display: inline-block;
+    padding: 8px 16px;
+    align-items: center;
+    border-radius: 8px;
+    border: 1px solid #8E26C0;
+    color: #8E26C0;
+    margin-left: 177px;
+}
+
+
+#photo {
+    vertical-align: middle;
+    width: 610px;
+    height: 458px;
+}
+
+#offer-img-wrapper {
+    margin: 0 auto;
+    margin-top: 154px;
+    vertical-align: top;
+    max-width: 1190px;
+    height: 436px;
+
+}
+
+#offer {
+    display: inline-block;
+    max-width: 500px;
+    margin-left: 45px;
+}
+
+#offer-wrapper {
+    max-width: 1220px;
+    margin: 0 auto;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#maintitle {
+    margin-top: 100px;
+    color: #000;
+    text-align: center;
+    font-size: 40px;
+}
+
+#divlorem {
+    width: 444px;
+    height: 81px;
+    margin-left: 20px;
+    display: inline-block;
+
+}
+
+#lorem {
+    color: #535862;
+    font-size: 20px;
+    margin-top: 16px;
+}
+
+#list-item {
+
+    margin-top: 14px;
+}
+
+#list-item ol li {
+    font-size: 24px;
+    margin: 12px;
+}
+
+#mainsecond {
+
+    width: 1221px;
+    margin-top: 83px;
+    vertical-align: middle;
+    margin: 0 auto;
+    margin-top: 45px;
+}
+
+#secondp {
+    color: #535862;
+    text-align: center;
+    font-size: 20px;
+    display: inline-block;
+    text-align: center;
+    margin-top: 18px;
+    width: 905px;
+}
+
+#contact {
+    width: 905px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+#contactdiv {
+    background-color: #F7F4FF;
+    padding: 32px;
+
+}
+
+#contactaddress {
+    display: inline-block;
+    width: 403px;
+    border-radius: 16px;
+    background: #FFF;
+    padding: 20px;
+}
+
+#imgs {
+    width: 56px;
+    display: inline-block;
+    padding-bottom: 24px;
+    vertical-align: middle;
+}
+
+#imgone,
+#imgsecond,
+#imgthree {
+    margin-bottom: 24px;
+    border-radius: 50px;
+    padding: 10px;
+    background: #F7F4FF;
+}
+
+#divp {
+    display: inline-block;
+    width: 291px;
+    vertical-align: middle;
+}
+
+#address {
+    #000000
+    font-size: 20px;
+}
+#addressdiv {
+    vertical-align: middle;
+    display: inline-block;
+}
+#emaildiv {
+    vertical-align: middle;
+}
+#phonediv {
+    vertical-align: middle;
+}
