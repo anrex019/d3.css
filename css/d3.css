@@ -139,52 +139,83 @@ header {
 }
 
 #contactdiv {
-    background-color: #F7F4FF;
+    display: inline-block;
     padding: 32px;
-
+    border-radius: 16px;
+    background: #F7F4FF;
+    width: 100%;
+    height: 548px;
+    margin: auto;
+    margin-top: 28px;
 }
 
-#contactaddress {
+#contactfirstdiv {
     display: inline-block;
-    width: 403px;
     border-radius: 16px;
     background: #FFF;
     padding: 20px;
-}
-
-#imgs {
-    width: 56px;
-    display: inline-block;
-    padding-bottom: 24px;
+    width: 403px;
+    height: 474px;
     vertical-align: middle;
+
 }
 
-#imgone,
-#imgsecond,
-#imgthree {
-    margin-bottom: 24px;
+#location,
+#phone,
+#email {
+    vertical-align: middle;
+    margin: 24px;
+    border: 50px;
     border-radius: 50px;
-    padding: 10px;
     background: #F7F4FF;
 }
 
-#divp {
+#address_box,
+#email_box,
+#phone_box {
     display: inline-block;
-    width: 291px;
-    vertical-align: middle;
+    vertical-align: middle
 }
 
-#address {
-    #000000
-    font-size: 20px;
-}
-#addressdiv {
-    vertical-align: middle;
+#contactseconddiv {
+    margin-left: 24px;
     display: inline-block;
+
 }
-#emaildiv {
+
+#contactseconddiv p {
+    color: #1B003D;
+    font-size: 32px;
     vertical-align: middle;
+    
+
 }
-#phonediv {
-    vertical-align: middle;
+
+#label_text,
+#label_texttwo {
+    display: block;
+    
+
 }
+
+#text,
+#texttwo {
+    padding: 8px 16px;
+    border-radius: 10px;
+    border-radius: 8px;
+    border: 1px solid #8E26C0;
+    width: 698px;
+   
+
+}
+
+#textarea {
+    display: block;
+    resize: none;
+    width: 698px;
+    height: 122px;
+    border-radius: 16px;
+    border: 1px solid #8E26C0;
+   
+}
+
